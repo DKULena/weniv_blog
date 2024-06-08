@@ -1,0 +1,1 @@
+![썸네일 이미지](img/blog_img.jpg)
