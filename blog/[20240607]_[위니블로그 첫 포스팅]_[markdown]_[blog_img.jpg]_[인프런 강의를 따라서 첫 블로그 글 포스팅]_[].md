@@ -1,5 +1,5 @@
 # 삼성 홈페이지 나누기
 
-![삼성 홈페이지 원본](img/samsung.png)
+![삼성 홈페이지 원본](./img/samsung.png)
 
 홈페이지 이미지를 각 section별로 상세히 나눠보자!
