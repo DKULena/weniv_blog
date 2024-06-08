@@ -3,3 +3,5 @@
 ![삼성 홈페이지 원본](./img/samsung.png)
 
 홈페이지 이미지를 각 section별로 상세히 나눠보자!
+
+![삼성 홈페이지 원본](./img/samsung2.png)
